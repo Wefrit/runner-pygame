@@ -26,6 +26,10 @@ O código ainda não está totalmente limpo ou otimizado, mas o jogo funciona co
     ```bash
     python game.py
 
+## Gameplay
+
+![Gameplay do jogo](media/gameplay.gif)
+
 📌 Observações:
 
 - Projeto feito para aprendizado
