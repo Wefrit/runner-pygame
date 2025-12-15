@@ -28,7 +28,7 @@ O código ainda não está totalmente limpo ou otimizado, mas o jogo funciona co
 
 ## Gameplay
 
-![Gameplay do jogo](media/gameplay.gif)
+![Gameplay do jogo](/gameplay.gif)
 
 📌 Observações:
 
